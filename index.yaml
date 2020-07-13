@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  eventapp-lab20:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-07-13T18:53:21.9125862+09:00"
+    description: A Helm chart for Kubernetes
+    digest: b5a1ab91cc9b4234cd052d3cd216bdd74eaaa1eb5676a4db98c1ed89bcc90df6
+    name: eventapp-lab20
+    type: application
+    urls:
+    - https://joomook.github.io/mycharts/eventapp-lab20-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-07-13T18:53:21.9125862+09:00"
